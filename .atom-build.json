@@ -1,0 +1,23 @@
+{
+  "cmd": "pawncc",
+  "args": [
+    "-i$SAMP_SERVER_ROOT/plugins/crashdetect/include",
+    "-i$SAMP_SERVER_ROOT/plugins/jit/include",
+    "-i$SAMP_SERVER_ROOT/plugins/profiler/include",
+    "-i$SAMP_SERVER_ROOT/include",
+    "-i$SAMP_SERVER_ROOT/include/amx_assembly",
+    "-i$SAMP_SERVER_ROOT/include/YSI",
+    "-i$SAMP_SERVER_ROOT/include/YSI/YSI",
+    "-i$SAMP_SERVER_ROOT/pawno/include",
+    "-\\;+",
+    "-\\(+",
+    "-d2",
+    "$FILE_ACTIVE"
+  ],
+  "sh": false,
+  "cwd": "{FILE_ACTIVE_PATH}",
+  "errorMatch": "^(?<file>.+)\\((?<line>[0-9]+)\\)",
+  "env": {
+    "FILE_ACTIVE": "{FILE_ACTIVE}"
+  }
+}
