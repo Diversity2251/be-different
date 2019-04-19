@@ -1,0 +1,358 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:56:33] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:15:44] 
+[06:15:44] Server Plugins
+[06:15:44] --------------
+[06:15:44]  Loading plugin: mysql
+[06:15:44]  >> plugin.mysql: R39-6 successfully loaded.
+[06:15:44]   Loaded.
+[06:15:44]  Loaded 1 plugins.
+
+[06:15:44] 
+[06:15:44] Filterscripts
+[06:15:44] ---------------
+[06:15:44]   Loaded 0 filterscripts.
+
+[06:15:44] MySQL connection failed. Server is shutting down.
+[06:15:44] It's work <3 
+
+[06:15:44] Number of vehicle models: 0
+[06:15:44] --- Server Shutting Down.
+[06:15:44] plugin.mysql: Unloading plugin...
+[06:15:44] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:16:54] 
+[06:16:54] Server Plugins
+[06:16:54] --------------
+[06:16:54]  Loading plugin: mysql
+[06:16:54]  >> plugin.mysql: R39-6 successfully loaded.
+[06:16:54]   Loaded.
+[06:16:54]  Loaded 1 plugins.
+
+[06:16:54] 
+[06:16:54] Filterscripts
+[06:16:54] ---------------
+[06:16:54]   Loaded 0 filterscripts.
+
+[06:16:54] MySQL connection failed. Server is shutting down.
+[06:16:54] It's work <3 
+
+[06:16:54] Number of vehicle models: 0
+[06:16:54] --- Server Shutting Down.
+[06:16:54] plugin.mysql: Unloading plugin...
+[06:16:54] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:17:59] 
+[06:17:59] Server Plugins
+[06:17:59] --------------
+[06:17:59]  Loading plugin: mysql
+[06:17:59]  >> plugin.mysql: R39-6 successfully loaded.
+[06:17:59]   Loaded.
+[06:17:59]  Loaded 1 plugins.
+
+[06:17:59] 
+[06:17:59] Filterscripts
+[06:17:59] ---------------
+[06:17:59]   Loaded 0 filterscripts.
+
+[06:17:59] MySQL connection is successful.
+[06:17:59] It's work <3 
+
+[06:17:59] Number of vehicle models: 0
+[06:19:13] [connection] 192.168.0.115:60117 requests connection cookie.
+[06:19:14] [connection] incoming connection: 192.168.0.115:60117 id: 0
+[06:19:14] [join] Filiq has joined the server (0:192.168.0.115)
+Console input: gmx
+[06:21:02] MySQL connection is successful.
+[06:21:02] It's work <3 
+
+[06:21:02] Number of vehicle models: 0
+Console input: gmx
+[06:23:41] MySQL connection is successful.
+[06:23:41] It's work <3 
+
+[06:23:41] Number of vehicle models: 0
+Console input: gmx
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:39:10] 
+[06:39:10] Server Plugins
+[06:39:10] --------------
+[06:39:10]  Loading plugin: mysql
+[06:39:10]  >> plugin.mysql: R39-6 successfully loaded.
+[06:39:10]   Loaded.
+[06:39:10]  Loaded 1 plugins.
+
+[06:39:10] I couldn't load any gamemode scripts. Please verify your server.cfg
+[06:39:10] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:39:26] 
+[06:39:26] Server Plugins
+[06:39:26] --------------
+[06:39:26]  Loading plugin: mysql
+[06:39:26]  >> plugin.mysql: R39-6 successfully loaded.
+[06:39:26]   Loaded.
+[06:39:26]  Loaded 1 plugins.
+
+[06:39:26] 
+[06:39:26] Filterscripts
+[06:39:26] ---------------
+[06:39:26]   Loaded 0 filterscripts.
+
+[06:39:26] [MySQL] connection is successful.
+[06:39:26] It's work <3 
+
+[06:39:26] Number of vehicle models: 0
+[06:39:28] [connection] 192.168.0.115:56513 requests connection cookie.
+[06:39:29] [connection] incoming connection: 192.168.0.115:56513 id: 0
+[06:39:29] [join] Filiq has joined the server (0:192.168.0.115)
+Console input: gmx
+[07:10:00] [MySQL] Successfully disconnected from database!
+[07:10:12]  
+[07:10:12]  
+[07:10:12]  
+[07:10:12]  ======================================= 
+[07:10:12]  |                                     | 
+[07:10:12]  |        YSI version 4.00.0001        | 
+[07:10:12]  |        By Alex "Y_Less" Cole        | 
+[07:10:12]  |                                     | 
+[07:10:12]  ======================================= 
+[07:10:12]  
+[07:10:12] [MySQL] connection is successful.
+[07:10:12] It's work <3 
+
+[07:10:12] Number of vehicle models: 0
+Console input: gmx
+[07:12:23] [MySQL] Successfully disconnected from database!
+[07:12:35]  
+[07:12:35]  
+[07:12:35]  
+[07:12:35]  ======================================= 
+[07:12:35]  |                                     | 
+[07:12:35]  |        YSI version 4.00.0001        | 
+[07:12:35]  |        By Alex "Y_Less" Cole        | 
+[07:12:35]  |                                     | 
+[07:12:35]  ======================================= 
+[07:12:35]  
+[07:12:35] [MySQL] connection is successful.
+[07:12:35] It's work <3 
+
+[07:12:35] Number of vehicle models: 0
+Console input: gmx
+[07:15:13] [MySQL] Successfully disconnected from database!
+[07:15:25]  
+[07:15:25]  
+[07:15:25]  
+[07:15:25]  ======================================= 
+[07:15:25]  |                                     | 
+[07:15:25]  |        YSI version 4.00.0001        | 
+[07:15:25]  |        By Alex "Y_Less" Cole        | 
+[07:15:25]  |                                     | 
+[07:15:25]  ======================================= 
+[07:15:25]  
+[07:15:25] [MySQL] connection is successful.
+[07:15:25] It's work <3 
+
+[07:15:25] Number of vehicle models: 0
+Console input: gmx
+[07:18:45] [MySQL] Successfully disconnected from database!
+[07:18:57]  
+[07:18:57]  
+[07:18:57]  
+[07:18:57]  ======================================= 
+[07:18:57]  |                                     | 
+[07:18:57]  |        YSI version 4.00.0001        | 
+[07:18:57]  |        By Alex "Y_Less" Cole        | 
+[07:18:57]  |                                     | 
+[07:18:57]  ======================================= 
+[07:18:57]  
+[07:18:57] [MySQL] connection is successful.
+[07:18:57] It's work <3 
+
+[07:18:57] Number of vehicle models: 0
+Console input: gmx
+[07:19:18] [MySQL] Successfully disconnected from database!
+Console input: gmx
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:19:27] 
+[07:19:27] Server Plugins
+[07:19:27] --------------
+[07:19:27]  Loading plugin: mysql
+[07:19:27]  >> plugin.mysql: R39-6 successfully loaded.
+[07:19:27]   Loaded.
+[07:19:27]  Loaded 1 plugins.
+
+[07:19:27] 
+[07:19:27] Filterscripts
+[07:19:27] ---------------
+[07:19:27]   Loaded 0 filterscripts.
+
+[07:19:27]  
+[07:19:27]  
+[07:19:27]  
+[07:19:27]  ======================================= 
+[07:19:27]  |                                     | 
+[07:19:27]  |        YSI version 4.00.0001        | 
+[07:19:27]  |        By Alex "Y_Less" Cole        | 
+[07:19:27]  |                                     | 
+[07:19:27]  ======================================= 
+[07:19:27]  
+[07:19:27] [MySQL] connection is successful.
+[07:19:27] It's work <3 
+
+[07:19:27] Number of vehicle models: 0
+[07:19:39] [connection] 192.168.0.115:51918 requests connection cookie.
+[07:19:40] [connection] incoming connection: 192.168.0.115:51918 id: 0
+[07:19:40] [join] Filiq has joined the server (0:192.168.0.115)
+Console input: gmx
+[07:25:22] [MySQL] Successfully disconnected from database!
+[07:25:34]  
+[07:25:34]  
+[07:25:34]  
+[07:25:34]  ======================================= 
+[07:25:34]  |                                     | 
+[07:25:34]  |        YSI version 4.00.0001        | 
+[07:25:34]  |        By Alex "Y_Less" Cole        | 
+[07:25:34]  |                                     | 
+[07:25:34]  ======================================= 
+[07:25:34]  
+[07:25:34] [MySQL] connection is successful.
+[07:25:34] It's work <3 
+
+[07:25:34] Number of vehicle models: 0
+Console input: gmx
+[07:32:30] [MySQL] Successfully disconnected from database!
+[07:32:42]  
+[07:32:42]  
+[07:32:42]  
+[07:32:42]  ======================================= 
+[07:32:42]  |                                     | 
+[07:32:42]  |        YSI version 4.00.0001        | 
+[07:32:42]  |        By Alex "Y_Less" Cole        | 
+[07:32:42]  |                                     | 
+[07:32:42]  ======================================= 
+[07:32:42]  
+[07:32:42] [MySQL] connection is successful.
+[07:32:42] It's work <3 
+
+[07:32:42] Number of vehicle models: 0
+Console input: gmx
+[07:33:09] [MySQL] Successfully disconnected from database!
+[07:33:21]  
+[07:33:21]  
+[07:33:21]  
+[07:33:21]  ======================================= 
+[07:33:21]  |                                     | 
+[07:33:21]  |        YSI version 4.00.0001        | 
+[07:33:21]  |        By Alex "Y_Less" Cole        | 
+[07:33:21]  |                                     | 
+[07:33:21]  ======================================= 
+[07:33:21]  
+[07:33:21] [MySQL] connection is successful.
+[07:33:21] It's work <3 
+
+[07:33:21] Number of vehicle models: 0
+Console input: gmx
+[07:33:52] [MySQL] Successfully disconnected from database!
+[07:34:04]  
+[07:34:04]  
+[07:34:04]  
+[07:34:04]  ======================================= 
+[07:34:04]  |                                     | 
+[07:34:04]  |        YSI version 4.00.0001        | 
+[07:34:04]  |        By Alex "Y_Less" Cole        | 
+[07:34:04]  |                                     | 
+[07:34:04]  ======================================= 
+[07:34:04]  
+[07:34:04] [MySQL] connection is successful.
+[07:34:04] It's work <3 
+
+[07:34:04] Number of vehicle models: 0
+Console input: gmx
+[07:41:55] [MySQL] Successfully disconnected from database!
+[07:42:07]  
+[07:42:07]  
+[07:42:07]  
+[07:42:07]  ======================================= 
+[07:42:07]  |                                     | 
+[07:42:07]  |        YSI version 4.00.0001        | 
+[07:42:07]  |        By Alex "Y_Less" Cole        | 
+[07:42:07]  |                                     | 
+[07:42:07]  ======================================= 
+[07:42:07]  
+[07:42:07] [MySQL] connection is successful.
+[07:42:07] It's work <3 
+
+[07:42:07] Number of vehicle models: 0
+Console input: gmx
+[07:42:41] [MySQL] Successfully disconnected from database!
+[07:42:53]  
+[07:42:53]  
+[07:42:53]  
+[07:42:53]  ======================================= 
+[07:42:53]  |                                     | 
+[07:42:53]  |        YSI version 4.00.0001        | 
+[07:42:53]  |        By Alex "Y_Less" Cole        | 
+[07:42:53]  |                                     | 
+[07:42:53]  ======================================= 
+[07:42:53]  
+[07:42:53] [MySQL] connection is successful.
+[07:42:53] It's work <3 
+
+[07:42:53] Number of vehicle models: 0
