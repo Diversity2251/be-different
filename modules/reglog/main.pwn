@@ -16,7 +16,7 @@ function MySQL_Init() {
 }
 
 function MySQL_Exit() {
-    for(new i = 0; i <= GetPlayerPoolSize(); i++) {
+    foreach(new i : Players) {
         if(IsPlayerConnected(i))
           OnPlayerDisconnect(i, 1);
     }
@@ -110,7 +110,7 @@ function OnPlayerRegister(playerid) {
     return true;
 }
 
-function AssignPlayerData(playerid) {  
+function AssignPlayerData(playerid) {
     if(cache_num_rows() > 0) {
       PlayerData[playerid][pID] = cache_get_field_content_int(0, "id");
       PlayerData[playerid][pAdmin] = cache_get_field_content_int(0, "adminlevel");
